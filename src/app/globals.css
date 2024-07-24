@@ -31,3 +31,14 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 0;  /* For vertical scrollbars */
+  height: 0; /* For horizontal scrollbars */
+}
+
+.custom-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}

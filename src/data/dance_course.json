@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Hip Hop Dance Basics",
+            "slug": "hip-hop-dance-basics",
+            "description": "Master the fundamental moves of hip hop dance in this beginner-friendly course.",
+            "price": 99.99,
+            "instructor": "Michael Johnson",
+            "isFeatured": true,
+            "image": "/courses/hip-hop.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Ballet for Beginners",
+            "slug": "ballet-for-beginners",
+            "description": "Learn the elegance and technique of ballet with expert instruction tailored for beginners.",
+            "price": 109.99,
+            "instructor": "Sarah Thompson",
+            "isFeatured": false,
+            "image": "/courses/ballet.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Contemporary Dance Techniques",
+            "slug": "contemporary-dance-techniques",
+            "description": "Explore expressive movement and develop your skills in contemporary dance.",
+            "price": 119.99,
+            "instructor": "Emily Roberts",
+            "isFeatured": true,
+            "image": "/courses/contemporary.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Salsa Mastery",
+            "slug": "salsa-mastery",
+            "description": "Become proficient in the vibrant and rhythmic dance style of salsa with comprehensive training.",
+            "price": 129.99,
+            "instructor": "Carlos Hernandez",
+            "isFeatured": false,
+            "image": "/courses/salsa.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Tap Dance Workshop",
+            "slug": "tap-dance-workshop",
+            "description": "Learn the rhythmic art of tap dancing with step-by-step guidance from experienced instructors.",
+            "price": 139.99,
+            "instructor": "Laura Adams",
+            "isFeatured": false,
+            "image": "/courses/tap.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Urban Dance Styles",
+            "slug": "urban-dance-styles",
+            "description": "Explore various urban dance styles including krumping, locking, and waacking.",
+            "price": 149.99,
+            "instructor": "Chris Wilson",
+            "isFeatured": true,
+            "image": "/courses/urban.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Latin Dance Fusion",
+            "slug": "latin-dance-fusion",
+            "description": "Blend Latin dance styles like salsa, merengue, and bachata into dynamic fusion routines.",
+            "price": 159.99,
+            "instructor": "Maria Rodriguez",
+            "isFeatured": false,
+            "image": "/courses/latin-fusion.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Ballroom Dance Essentials",
+            "slug": "ballroom-dance-essentials",
+            "description": "Master the classic ballroom dances including waltz, foxtrot, and tango.",
+            "price": 169.99,
+            "instructor": "David Clark",
+            "isFeatured": true,
+            "image": "/courses/ballroom.jpg"
+        },
+        {
+            "id": 9,
+            "title": "K-pop Dance Choreography",
+            "slug": "k-pop-dance-choreography",
+            "description": "Learn popular K-pop dance routines and choreography from top hits.",
+            "price": 179.99,
+            "instructor": "Jenny Kim",
+            "isFeatured": false,
+            "image": "/courses/kpop.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Flamenco Dance Intensive",
+            "slug": "flamenco-dance-intensive",
+            "description": "Immerse yourself in the passionate art of flamenco dance with intensive training.",
+            "price": 189.99,
+            "instructor": "Antonio Lopez",
+            "isFeatured": true,
+            "image": "/courses/flamenco.jpg"
+        }
+    ]
+}
