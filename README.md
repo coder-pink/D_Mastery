@@ -1,4 +1,4 @@
-D_Mastery Website
+D_Mastery Dance Website
 ## Getting Started
 
 First, run the development server:
